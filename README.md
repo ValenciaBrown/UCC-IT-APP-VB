@@ -11,4 +11,7 @@ Screenshots
 
 ![screenshot2_uccapp](https://user-images.githubusercontent.com/68831757/165124880-3dc78262-0778-4191-93b3-b6e84654b7bf.png)
 
+![screenshot_admissions_uccapp](https://user-images.githubusercontent.com/68831757/165125137-004f3a92-62af-4bb5-b3c2-a76e1198bda5.png)
+
+
 ![screenshot_timetable_uccapp](https://user-images.githubusercontent.com/68831757/165124252-9bddf12e-f785-4bfa-ae7f-267bbaea855c.png)
